@@ -7,9 +7,7 @@ A simple turtle racing game implemented in Python using the Turtle graphics libr
 - [Introduction](#introduction)
 - [Game Overview](#game-overview)
 - [How to Play](#how-to-play)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
 
 ## Introduction
 
